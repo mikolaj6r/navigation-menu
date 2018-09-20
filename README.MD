@@ -1,2 +1,2 @@
 # Navigation Menu 
-That's simple header with JS side navigation menu
+That's simple header with side navigation menu
